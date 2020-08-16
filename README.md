@@ -4,26 +4,26 @@
 
 No mistery here:
 
-  $ docker-compose up
+    $ docker-compose up
 
 ## DRF
 
 ### Endpoints as requested in the code challenge
 
-  /pedidos (GET, POST)
-  /pedidos/:id (GET, PUT, DELETE)
-  /clientes (GET, POST)
-  /clientes/:id (GET, PUT, DELETE)
+    /pedidos (GET, POST)
+    /pedidos/:id (GET, PUT, DELETE)
+    /clientes (GET, POST)
+    /clientes/:id (GET, PUT, DELETE)
 
 ## Tests
 
 ### Unit Tests
 
-  $ python manage.py test <app_name>
+    $ python manage.py test <app_name>
 
 ### End-to-end Tests
 
-  $ python manage.py test tests
+    $ python manage.py test tests
 
 ## References
 
