@@ -1,0 +1,20 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$36000$OHhaFQD2ks6O$3uS1OFIRgO3UWdYexebUn4vmal6dsTrNEKKgfht4+5c=",
+      "last_login": "2020-08-16T12:30:51.346Z",
+      "is_superuser": true,
+      "username": "diogo",
+      "first_name": "Diogo",
+      "last_name": "Simão",
+      "email": "diogosimao@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2020-08-16T12:10:37.912Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]
