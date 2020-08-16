@@ -25,6 +25,8 @@ No mistery here:
 
     $ python manage.py test tests
 
+  ![e2e Demo](data/gifs/Peek 2020-08-16 15-52.gif)
+
 ## References
 
 * [E2E] - [Selenium Tests in Django & Docker](https://marcgibbons.com/post/selenium-in-docker/)
